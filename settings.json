@@ -1,0 +1,21 @@
+{
+  "editor.fontFamily": "\"Fira Code, Consolas, 'Courier New', monospace\"",
+  "editor.fontSize": 25,
+  "editor.wordWrap": "on",
+  "workbench.colorTheme": "Houston",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "files.autoSave": "afterDelay",
+  "workbench.productIconTheme": "fluent-icons",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "redhat.telemetry.enabled": true,
+  "workbench.startupEditor": "none",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.multiCursorModifier": "ctrlCmd"
+}
